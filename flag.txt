@@ -1,0 +1,9 @@
+Challenge 1:
+flag: FSEC{Y0u_hAv3_B33n_CaugHt}
+
+Challenge 2: 
+flag: FSEC{R3mEmber_pAy_AtTent1on_To_strang3_l1nK}
+RlNFQ3tSM21FbWJlcl9wQXlfQXRUZW50MW9uX1RvX3N0cmFuZzNfbDFuS30= 
+
+Challenge 3:
+flag: FSEC{m3rry_ckrjstm4s_4nd_h4ppy_n3wy34r}
